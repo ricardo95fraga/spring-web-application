@@ -1,5 +1,7 @@
 package com.ricardo.springwebapplication.repositories;
 
-public class AuthorRepository {
+import com.ricardo.springwebapplication.Author;
+import org.springframework.data.repository.CrudRepository;
 
+public interface AuthorRepository extends CrudRepository<Author, Long> {
 }
