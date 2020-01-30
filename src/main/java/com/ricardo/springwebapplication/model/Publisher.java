@@ -1,4 +1,4 @@
-package com.ricardo.springwebapplication;
+package com.ricardo.springwebapplication.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

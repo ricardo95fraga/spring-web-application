@@ -1,8 +1,8 @@
 package com.ricardo.springwebapplication.bootstrap;
 
-import com.ricardo.springwebapplication.Author;
-import com.ricardo.springwebapplication.Book;
-import com.ricardo.springwebapplication.Publisher;
+import com.ricardo.springwebapplication.model.Author;
+import com.ricardo.springwebapplication.model.Book;
+import com.ricardo.springwebapplication.model.Publisher;
 import com.ricardo.springwebapplication.repositories.AuthorRepository;
 import com.ricardo.springwebapplication.repositories.BookRepository;
 import com.ricardo.springwebapplication.repositories.PublisherRepository;
